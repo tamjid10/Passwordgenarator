@@ -1,7 +1,7 @@
 # Passwordgenarator
 This program is a genaral purposed strong password genarator.
 To run this program :
-open terminal type- 
+open terminal - 
 go to the directory - 
 then
 java randompass.class
