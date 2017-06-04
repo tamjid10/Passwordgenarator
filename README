@@ -4,4 +4,4 @@ To run this program :
 open terminal - 
 go to the directory - 
 then
-java randompass.class
+java randompass
